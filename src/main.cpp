@@ -1,5 +1,7 @@
 extern "C"{
-    // Add the header files required to run your main 
+    #include "dfs.h"
+    #include "search.h"
+    #include "sum.h"
 }
 
 // File for sandboxing and trying out code
